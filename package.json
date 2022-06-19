@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/ssalasm/jsnpm/issues"
   },
-  "homepage": "https://github.com/ssalasm/jsnpm#readme"
+  "homepage": "https://github.com/ssalasm/jsnpm#readme",
+  "devDependencies": {
+    "date-fns": "^2.28.0",
+    "moment": "^2.29.3"
+  },
+  "optionalDependencies": {
+    "eslint": "^8.18.0"
+  }
 }
